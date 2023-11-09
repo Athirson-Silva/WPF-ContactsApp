@@ -4,9 +4,6 @@ using System.Windows;
 
 namespace ContactsApp
 {
-    /// <summary>
-    /// Lógica interna para NewContactWindow.xaml
-    /// </summary>
     public partial class NewContactWindow : Window
     {
         public NewContactWindow()

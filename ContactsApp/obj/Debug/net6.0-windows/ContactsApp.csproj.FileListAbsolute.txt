@@ -40,3 +40,5 @@ C:\Users\athir\source\repos\WPF Projects\ContactsApp\ContactsApp\obj\Debug\net6.
 C:\Users\athir\source\repos\WPF Projects\ContactsApp\ContactsApp\obj\Debug\net6.0-windows\ContactsApp.pdb
 C:\Users\athir\source\repos\WPF Projects\ContactsApp\ContactsApp\obj\Debug\net6.0-windows\ContactsApp.genruntimeconfig.cache
 C:\Users\athir\source\repos\WPF Projects\ContactsApp\ContactsApp\obj\Debug\net6.0-windows\ref\ContactsApp.dll
+C:\Users\athir\source\repos\WPF Projects\ContactsApp\ContactsApp\obj\Debug\net6.0-windows\DetailsContactWindow.g.cs
+C:\Users\athir\source\repos\WPF Projects\ContactsApp\ContactsApp\obj\Debug\net6.0-windows\DetailsContactWindow.baml

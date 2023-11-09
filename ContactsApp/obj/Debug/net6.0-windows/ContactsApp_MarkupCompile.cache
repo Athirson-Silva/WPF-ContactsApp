@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\athir\source\repos\WPF Projects\ContactsApp\ContactsApp\App.xaml
-2-1772605110
+390697086
 
-5-994651099
+6-1519897382
 1991133742573
-MainWindow.xaml;NewContactWindow.xaml;
+DetailsContactWindow.xaml;MainWindow.xaml;NewContactWindow.xaml;
 
 False
 
